@@ -1,4 +1,5 @@
 // copy and paste this code on your own document (foo.js)
+//dont forget "<script src="foo.js"> </script>" in your index.html
 // this is grid axies for your 3D visualisation 
 // version tested of a frame (0.7.1)
 
